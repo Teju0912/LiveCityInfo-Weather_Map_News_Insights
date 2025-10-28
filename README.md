@@ -12,20 +12,16 @@ Certainly, here are the step-by-step instructions for setting up and running the
 2.Install Requirements:
 
 * Install all necessary dependencies from the requirements file:
- 
     - pip install -r requirements.txt
 * If you don’t have a requirements.txt file, manually install required packages like:
-  
     - pip install requests pillow tkinter matplotlib geopy gtts playsound deep-translator
 
 3.Set Up the Jupyter Notebook:
 
 * Open the Jupyter Notebook in your virtual environment.
 * Run the following commands:
-
    - pip install ipykernel
    - pip install jupyter notebook
 * Then, start Jupyter Notebook:
-
    - jupyter notebook
 * Open your project file WeatherMapNews_App.ipynb inside Jupyter.
