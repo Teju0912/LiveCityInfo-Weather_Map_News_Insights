@@ -3,8 +3,10 @@ Certainly, here are the step-by-step instructions for setting up and running the
 
 1. Setup Virtual Environment:
 * Open the terminal or Anaconda Prompt.
-* Install the virtual environment package if you haven’t already: conda create -p venv python=3.13.5 -y
-* Create a virtual environment: virtualenv venv
+* Install the virtual environment package if you haven’t already:
+     - conda create -p venv python=3.13.5 -y
+* Create a virtual environment:
+     - virtualenv venv
 * Activate the virtual environment: conda activate venv/
 
 2.Install Requirements:
