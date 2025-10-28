@@ -5,14 +5,17 @@ Certainly, here are the step-by-step instructions for setting up and running the
 * Open the terminal or Anaconda Prompt.
 * Install the virtual environment package if you haven’t already:
      - conda create -p venv python=3.13.5 -y
+
 * Create a virtual environment:
      - virtualenv venv
+
 * Activate the virtual environment: conda activate venv/
 
 2. Install Requirements:
 
 * Install all necessary dependencies from the requirements file:
     - pip install -r requirements.txt
+
 * If you don’t have a requirements.txt file, manually install required packages like:
     - pip install requests pillow tkinter matplotlib geopy gtts playsound deep-translator
 
@@ -22,8 +25,10 @@ Certainly, here are the step-by-step instructions for setting up and running the
 * Run the following commands:
    - pip install ipykernel
    - pip install jupyter notebook
+     
 * Then, start Jupyter Notebook:
    - jupyter notebook
+
 * Open your project file WeatherMapNews_App.ipynb inside Jupyter.
 
 4. Add Your API Keys (Important):
@@ -35,3 +40,11 @@ Certainly, here are the step-by-step instructions for setting up and running the
 * Example:
    - weather_api_key = "your_openweather_api_key"
    - news_api_key = "your_news_api_key"
+
+Run the Application:
+
+Run all cells in your Jupyter Notebook step-by-step to launch the app.
+* You’ll experience:
+   - 🌦️ Live Weather Forecast
+   - 🗺️ Location Map Display
+   - 📰 Latest News Updates
