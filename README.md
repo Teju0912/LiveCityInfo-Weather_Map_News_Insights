@@ -32,6 +32,11 @@ Certainly, here are the step-by-step instructions for setting up and running the
 * Open your project file WeatherMapNews_App.ipynb inside Jupyter.
 
 **4. Add Your API Keys (Important):**
+Generate free API keys from:
+
+[OpenWeatherMap](https://openweathermap.org/)🌦️
+
+NewsAPI📰
 
 * Before running, make sure to add your API keys inside the code:
    - OpenWeatherMap API Key → for live weather data
