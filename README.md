@@ -41,10 +41,15 @@ Certainly, here are the step-by-step instructions for setting up and running the
    - weather_api_key = "your_openweather_api_key"
    - news_api_key = "your_news_api_key"
 
-Run the Application:
+5. Run the Application:
 
 Run all cells in your Jupyter Notebook step-by-step to launch the app.
 * You’ll experience:
    - 🌦️ Live Weather Forecast
    - 🗺️ Location Map Display
    - 📰 Latest News Updates
+
+*Hurray! Enjoy the Code*
+
+By following these steps, you can set up a virtual environment, install necessary requirements, configure your API keys, and run the WeatherMapNews App successfully inside Jupyter Notebook.
+This ensures a clean, isolated, and fully functional development environment for your app.
