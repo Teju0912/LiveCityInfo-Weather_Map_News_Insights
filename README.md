@@ -9,14 +9,14 @@ Certainly, here are the step-by-step instructions for setting up and running the
      - virtualenv venv
 * Activate the virtual environment: conda activate venv/
 
-2.Install Requirements:
+2. Install Requirements:
 
 * Install all necessary dependencies from the requirements file:
     - pip install -r requirements.txt
 * If you don’t have a requirements.txt file, manually install required packages like:
     - pip install requests pillow tkinter matplotlib geopy gtts playsound deep-translator
 
-3.Set Up the Jupyter Notebook:
+3. Set Up the Jupyter Notebook:
 
 * Open the Jupyter Notebook in your virtual environment.
 * Run the following commands:
@@ -25,3 +25,12 @@ Certainly, here are the step-by-step instructions for setting up and running the
 * Then, start Jupyter Notebook:
    - jupyter notebook
 * Open your project file WeatherMapNews_App.ipynb inside Jupyter.
+
+4. Add Your API Keys (Important):
+
+* Before running, make sure to add your API keys inside the code:
+   - OpenWeatherMap API Key → for live weather data
+   - NewsAPI.org Key → for live news updates
+           *Example:
+                 - weather_api_key = "your_openweather_api_key"
+                 - news_api_key = "your_news_api_key"
