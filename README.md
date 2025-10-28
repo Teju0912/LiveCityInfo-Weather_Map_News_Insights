@@ -36,7 +36,7 @@ Generate free API keys from:
 
 [OpenWeatherMap](https://openweathermap.org/)🌦️
 
-NewsAPI📰
+[NewsAPI](https://newsapi.org/register)📰
 
 * Before running, make sure to add your API keys inside the code:
    - OpenWeatherMap API Key → for live weather data
