@@ -32,6 +32,6 @@ Certainly, here are the step-by-step instructions for setting up and running the
    - OpenWeatherMap API Key → for live weather data
    - NewsAPI.org Key → for live news updates
 
-     *Example:
-         - weather_api_key = "your_openweather_api_key"
-         - news_api_key = "your_news_api_key"
+* Example:
+   - weather_api_key = "your_openweather_api_key"
+   - news_api_key = "your_news_api_key"
