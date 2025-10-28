@@ -54,7 +54,7 @@ Run all cells in your Jupyter Notebook step-by-step to launch the app.
    - 🗺️ Location Map Display
    - 📰 Latest News Updates
 
-*Hurray! Enjoy the Code*
+***Hurray! Enjoy the Code***
 
 By following these steps, you can set up a virtual environment, install necessary requirements, configure your API keys, and run the WeatherMapNews App successfully inside Jupyter Notebook.
 This ensures a clean, isolated, and fully functional development environment for your app.
